@@ -1,17 +1,17 @@
-# CSS Hamburger Menu
+# CSS Button Interactive
 
 # Description
-This project is a responsive Laundry Service Web Page built using HTML and CSS. It includes a navigation bar, hamburger menu and a hero section. The hamburger menu is displayed only on mobile view using CSS pseudo-classes.
+This project is a responsive Laundry Service Web Page built using HTML and CSS. It includes a navigation bar, hero section and an interactive CTA button. The CTA button uses CSS transforms to create a hover effect.
 
 # Features
 - Navigation Bar
-- Hamburger Menu
-- Mobile Responsive Design
-- Hidden Menu by Default
-- Menu Opens on Focus
-- CSS Pseudo-class
-- Laundry Service Hero Section
-- Book a Service Button
+- Responsive Hero Section
+- Laundry Service Content
+- Interactive CTA Button
+- Button Size Increases on Hover
+- Button Tilts on Hover
+- CSS Transform Effects
+- Smooth Hover Transition
 - Responsive Layout
 - Media Queries
 
